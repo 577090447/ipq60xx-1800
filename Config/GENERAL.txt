@@ -42,7 +42,6 @@ CONFIG_PACKAGE_luci-app-harbor-file=n
 CONFIG_PACKAGE_luci-i18n-harbor-file-zh-cn=n
 
 # ==================== 媒体/流 ====================
-# 不用IPTV转发就改成 =n
 CONFIG_PACKAGE_luci-app-rtp2httpd=y
 CONFIG_PACKAGE_luci-i18n-rtp2httpd-zh-cn=y
 
